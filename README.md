@@ -7,9 +7,8 @@ I was born in Brazil but I'm living in the Netherlands.
 Here are some things I like:
 
 - lists 📃
-- memes 😹
+- memes and Non-sense humor 🤡
 - art 🎨
-- Non-sense humor 🤡
 - photography 📸
 - travel and discover new places and cultures 🧳
 - playing games 🎮 (not a platform fanboy)
