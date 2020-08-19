@@ -1,22 +1,20 @@
-# Hallo! 👋
+# Hallo! I'm Raul 👋
 
-I'm Raul.
-
-I was born in Brazil but I'm living in the Netherlands.
+I was born in Brazil but currently living in the Netherlands.
 
 Here are some things I like:
 
 - lists 📃
 - memes and Non-sense humor 🤡
 - art 🎨
-- photography 📸
+- taking photos 📸
 - travel and discover new places and cultures 🧳
 - playing games 🎮 (not a platform fanboy)
 - dancing 🕺
 - working out 🏋️‍♂️
 - ~~useless~~ gadgets 🔮
 
-Ah... almost forgot. I'm also into teaching both people 👨‍🏫 (human language) and machines 👨‍💻 (programing language) how to **solve problems**.
+Ah... almost forgot. I'm also into teaching both people 👨🏽‍🏫 (human language) and machines 👨🏽‍💻 (programing language) how to **solve problems**.
 
 ## Find me
 
@@ -27,6 +25,4 @@ I'm not a social media addict person but you can find me on:
 - [Instagram](https://www.instagram.com/raul_fdm/) - Where I post photos I'm very proud to take.
 - [Curriculum](raulmelo.dev/cv) - Where you can find my skills and experience.
 
-I'll you around!
-
-![Rick mind blowing - Rick and Morty](https://media.giphy.com/media/3ov9jZcnT6S547u036/giphy.gif)
+Let's get in touch :)
